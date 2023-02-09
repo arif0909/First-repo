@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+}
+img{
+    width: auto;
+    height:300px;
+    margin-top: 0%;
+}
+div{
+    background-color: #054ce6dc;
+    text-align: center;
+    border: 10px solid rgb(5, 142, 167);
+    border-radius: 10px;
+    
+}
+h3{
+    background-color: rgb(104, 134, 161);
+    margin-top: 0%;
+    margin-bottom: 0%;
+    font-style: oblique;
+    font-size: 30px;
+    color: rgb(6, 248, 127);
+    
+}
+.lul{
+    color: blueviolet;
+
+}
+.lov{
+    
+    border: 3px solid #2aa37f;
+    border-bottom: none;
+    border-radius: 5px;
+}
+form{
+    background-color: #d9e623;
+    text-align: center;
+    border: 5px solid burlywood;
+
+}
+.eye{
+    margin-top: 5px;
+    border: 2px solid #0388f5;
+    border-radius: 50px;
+    background-color: #11d4c4;
+}
+form h4{
+    background-color:burlywood ;
+    color: #9c0c0c;
+    font-weight: bolder;
+    font-size: 20px;
+}
